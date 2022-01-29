@@ -1,5 +1,5 @@
 {
-	"name": "mytree.js",
+	"name": "tree.js",
 	"version": "1.0.0",
 	"description": "My own and shitty implementation of a Tree structure, that could be useful for some projects of mine",
 	"main": "index.js",
